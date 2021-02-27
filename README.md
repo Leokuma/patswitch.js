@@ -68,7 +68,7 @@ switch (pattern) {
 }
 ```
 
-### Property existance
+### Property existence
 
 You can create a pattern to check only whether a property exists, no matter the value it holds.
 
