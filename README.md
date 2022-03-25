@@ -1,8 +1,8 @@
 # PatswitchJS
 
-PatswitchJS is a tiny implementation of object pattern matching in JavaScript. It is inspired by Prolog's and Rust's pattern matching.
+PatswitchJS is a tiny _research_ and implementation of object pattern matching in JavaScript. It's inspired by Prolog's and Rust's pattern matching.
 
-The primary goal of the design is to allow a usage that feels like it is a native JavaScript feature.
+The primary goal of this research is to provide a usage that feels like it is a native JS feature.
 
 
 ## Examples
